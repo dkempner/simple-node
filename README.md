@@ -1,4 +1,6 @@
 ## To Start
 
-`npm ci`
-`node ./index.js`
+```
+npm ci
+node ./index.js
+```
